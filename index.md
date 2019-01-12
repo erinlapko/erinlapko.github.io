@@ -7,12 +7,9 @@ RSS Reader using Adafruit matrices and a Raspberry Pi 3, following the <a href="
 
 <img src="IMG_1470.JPG">
 
-</br>
-</br>
+
 Website for local Girls Who Code website, using PHP and MySQL.
-The website has
-  - login/logout PHP sessions
-  - post and comment features
+The website has login/logout PHP session sand post and comment features.
   
 
 <img src="MainPage.PNG">
