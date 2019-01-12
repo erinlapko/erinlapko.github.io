@@ -6,12 +6,8 @@
 RSS Reader using Adafruit matrices and a Raspberry Pi 3.
 
 ```markdown
- ![Image](src)
+ ![Image](MainPage.png)
 ```
-
-
-### Jekyll Themes
-
 
 ###  Contact
 
