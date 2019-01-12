@@ -19,5 +19,5 @@ Code in <a href="https://github.com/erinlapko/KO-GWC-Website">separate repositor
 
 ###  Contact
 ```markdown
-erinlapko@gmail.com
+<a href="mailto:erinlapko@gmail.com?"Contac me</a>
 ```
