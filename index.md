@@ -7,7 +7,8 @@ RSS Reader using Adafruit matrices and a Raspberry Pi 3, following the <a href="
 
 <img src="IMG_1470.JPG">
 
-
+</br>
+</br>
 Website for local Girls Who Code website, using PHP and MySQL.
 
 <img src="MainPage.PNG">
@@ -17,7 +18,3 @@ Code in <a href="https://github.com/erinlapko/KO-GWC-Website">separate repositor
 
 
 
-###  Contact
-```markdown
-<a href="mailto:erinlapko@gmail.com?">Contact me</a>
-```
