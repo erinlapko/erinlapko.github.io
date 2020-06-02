@@ -2,12 +2,12 @@
 
 
 ### Projects
-## RSS Reader
+#### RSS Reader
 RSS Reader using Adafruit matrices and a Raspberry Pi 3, following the <a href="https://github.com/hzeller/rpi-rgb-led-matrix">Hzeller repository.</a>
 The matrices can also display GIFs, images, and PPM files.
 <img src="IMG_1470.JPG">
 
-## Website using PHP and MySQL
+#### Website using PHP and MySQL
 Website for local Girls Who Code website, using PHP and MySQL.
 The website has 
     login/logout PHP sessions
