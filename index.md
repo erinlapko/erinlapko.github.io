@@ -20,5 +20,5 @@ Code in <a href="https://github.com/erinlapko/KO-GWC-Website">separate repositor
 #### Budget Project
 Program created for DECA (high school business club) that lets a user determine their budget. Written in Java, repository located <a href="https://https://github.com/erinlapko/BudgetCalculator">here.</a>
 
-
+<img src="budgetprojectscreenshot.png">
 
