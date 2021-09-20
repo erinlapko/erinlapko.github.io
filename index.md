@@ -18,7 +18,7 @@ The website has login/logout PHP sessions as well as post and comment features.
 Code in <a href="https://github.com/erinlapko/KO-GWC-Website">separate repository.</a>
 
 #### Budget Project
-Program created for DECA (high school business club) that lets a user determine their budget. Written in Java, repository located <a href="https://https://github.com/erinlapko/BudgetCalculator">here.</a>
+Program created for DECA (high school business club) that lets a user determine their budget. Written in Java, repository located <a href="https://github.com/erinlapko/BudgetCalculator">here.</a>
 
 <img src="budgetprojectscreenshot.png">
 
